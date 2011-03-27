@@ -1,6 +1,6 @@
 Comandos:
 
-git config : Obtiene y establece respositorios o opciones globales 
+git config :    Obtiene y establece respositorios o opciones globales 
  
 git init   :	Crea un repositorio git vacio o reinicia uno existente
 
@@ -26,7 +26,7 @@ git fetch  :	Descarga archivos y refs de otros repositorios
 
 git push   :	Actualiza los refs remotos con sus objetos asociados
 
-git checkout: 	Abandona una rama o direccion del arbol en que se esta trabajando
+git checkout:   Abandona una rama o direccion del arbol en que se esta trabajando
 
 
 git branch :	Enlista, crea o borra ramas
