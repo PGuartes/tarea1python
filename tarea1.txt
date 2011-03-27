@@ -6,7 +6,7 @@ git init   :	Crea un repositorio git vacio o reinicia uno existente
 
 git add    :	Agrega contenidos de un archivo al indice
 
-git status :	Muestra el estado del aárbol en el que se esta trabajando
+git status :	Muestra el estado del arbol en el que se esta trabajando
 
 git commit :	Guarda los cambios hechos al repositorio
 
