@@ -1,0 +1,32 @@
+Comandos:
+
+git config : Obtiene y establece respositorios o opciones globales 
+ 
+git init   :	Crea un repositorio git vacío o reinicia uno existente
+
+git add    :	Agrega contenidos de un archivo al índice
+
+git status :	Muestra el estado del árbol en el que se está trabajando
+
+git commit :	Guarda los cambios hechos al repositorio
+
+git log    :	Muestra el historial de los cambios hechos al repositorio
+
+git show   :	Muestra la información de un objeto
+
+git tag    :	Crea, enlista o verifica etiquetas
+
+git clone  :	Clona un repositorio en un nuevo directorio
+
+git remote :	Administra conjuntos de repositorios rastreados
+
+git pull   :	Obtiene(fetch) y une(merge) con otro respositorio o ramas locales(local branchs) 
+
+git fetch  :	Descarga archivos y refs de otros repositorios
+
+git push   :	Actualiza los refs remotos con sus objetos asociados
+
+git checkout: 	Abandona una rama o direccion del árbol en que se está trabajando
+
+
+git branch :	Enlista, crea o borra ramas
