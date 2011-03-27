@@ -2,17 +2,17 @@ Comandos:
 
 git config : Obtiene y establece respositorios o opciones globales 
  
-git init   :	Crea un repositorio git vacío o reinicia uno existente
+git init   :	Crea un repositorio git vacio o reinicia uno existente
 
-git add    :	Agrega contenidos de un archivo al índice
+git add    :	Agrega contenidos de un archivo al indice
 
-git status :	Muestra el estado del árbol en el que se está trabajando
+git status :	Muestra el estado del aárbol en el que se esta trabajando
 
 git commit :	Guarda los cambios hechos al repositorio
 
 git log    :	Muestra el historial de los cambios hechos al repositorio
 
-git show   :	Muestra la información de un objeto
+git show   :	Muestra la informacion de un objeto
 
 git tag    :	Crea, enlista o verifica etiquetas
 
@@ -26,7 +26,7 @@ git fetch  :	Descarga archivos y refs de otros repositorios
 
 git push   :	Actualiza los refs remotos con sus objetos asociados
 
-git checkout: 	Abandona una rama o direccion del árbol en que se está trabajando
+git checkout: 	Abandona una rama o direccion del arbol en que se esta trabajando
 
 
 git branch :	Enlista, crea o borra ramas
